@@ -8,6 +8,13 @@ All notable changes to this project will be documented in this file.
 `Unreleased`_
 -------------
 
+`0.18.0`_ -- 2019-12-05
+-----------------------
+Added
+^^^^^
+* Generic actors: allow meta inheritance
+
+
 `0.17.0`_ -- 2019-08-22
 -----------------------
 Added
